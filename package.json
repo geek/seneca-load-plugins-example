@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "seneca": "1.2.0"
+    "seneca": "3.9.0"
   }
 }
